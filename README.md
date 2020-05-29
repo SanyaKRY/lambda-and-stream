@@ -1,1 +1,20 @@
 # lambda-and-stream
+https://z0ltan.wordpress.com/2017/07/11/creating-custom-java-8-stream-collectors/
+https://www.nurkiewicz.com/2014/07/introduction-to-writing-custom.html
+https://github.com/timmyjose-study/custom-stream-collectors-java8
+https://easyjava.ru/java/language/java-8-stream-api-chast-shestaya-sobstvennyj-kollektor/
+https://dzone.com/articles/do-it-java-8-recursive-lambdas
+https://dzone.com/articles/walking-recursive-data
+https://videoportal.epam.com/video/lajpG4RB
+https://videoportal.epam.com/video/nJLmM9a9
+https://dzone.com/articles/functional-interface-and-lambda-expression-in-java
+https://www.concretepage.com/java/java-8/java-functional-interface
+https://habr.com/ru/company/luxoft/blog/270383/
+https://habr.com/ru/post/224593/
+https://habr.com/ru/post/213805/
+https://dzone.com/articles/why-we-need-lambda-expressions
+https://dzone.com/articles/why-we-need-lambda-expressions-0
+https://dzone.com/articles/higher-order-functions
+https://www.ibm.com/developerworks/library/j-java8idioms6/index.html
+https://marcin-chwedczuk.github.io/java-8-how-to-write-custom-collector
+https://dzone.com/articles/writing-functional-interfaces
